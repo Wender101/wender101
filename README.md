@@ -22,7 +22,7 @@
   
   <div> 
   <a href="https://www.instagram.com/wender_2021/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/wender-natanael-marques-vieira-dos-santos-a9a29a235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/wender-natanael-a9a29a235/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
   ![Snake animation](https://github.com/wender101/wender101/blob/output/github-contribution-grid-snake.svg)

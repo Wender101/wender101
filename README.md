@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wender Natanael :)
 
 - 🔭 Sou desenvolvedor front-end
-- 🌱 Tenho 16 anos e 1 ano de estudos na área de desenvolvimento
+- 🌱 Tenho 16 anos e quase 2 anos de estudos na área de desenvolvimento
 
 ##
 

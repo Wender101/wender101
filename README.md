@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Wender Natanael :)
 
-- 🔭 Sou desenvolvedor front-end
-- 🌱 Tenho 17 anos e estou a quase 2 anos de estudando desenvolvimento font-and. Por enquanto, tenho conhecimento em: html, css, sass, js e git...
+- 🔭 I'm a web developer
+- 🌱 I'm 17 years old and I've been studying front-end development for almost 2 years. For now, I have knowledge in: html, css, sass, js and git...
 
 ##
 

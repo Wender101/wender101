@@ -2,6 +2,7 @@
 
 - 🔭 I'm a web developer
 - 🌱 I'm 17 years old and I've been studying front-end development for almost 2 years. For now, I have knowledge in: html, css, sass, js and git...
+- <img src="https://images.emojiterra.com/twitter/v13.1/512px/1f1e7-1f1f7.png"><img> I live in Brazil and I love to learn new things, I always try to improve at what I do.
 
 ##
 
